@@ -2,7 +2,7 @@
 
 🎓 **Student | Aspiring Developer**  
 💻 **Basic Understanding / Learning:** Python, Lua, HTML, CSS, JavaScript  
-🏗️ **Current Project:** `kazu-scripts` (private)  
+🏗️ **Current Project:** `kazu-scripts` (See below)  
 🏃‍♂️ **Hobbies:** Coding, Sports, Gaming  
 
 ---
@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📦 Featured Project
-- 🛠️ `kazu-scripts` (private): My personal playground for code experiments, utilities, and learning.
+- 🛠️ `kazu-scripts` (private): My personal playground for FiveM scripts, automation, efficienty, and learning.
 
 ---
 
