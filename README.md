@@ -1,7 +1,7 @@
 # Hi there, I'm kazu1x! 👋
 
 🎓 **Student | Aspiring Developer**  
-💻 **Basic Understanding / Learning:** Python, Lua, HTML, CSS, JavaScript  
+💻 **Basic Understanding / Learning:** Python, Lua, HTML & CSS  
 🏗️ **Current Project:** `kazu-scripts` (See below)  
 🏃‍♂️ **Hobbies:** Coding, Sports, Gaming  
 
@@ -21,7 +21,6 @@
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📦 Featured Project
 - 🛠️ `kazu-scripts` (private): My personal playground for FiveM scripts, automation, efficienty, and learning.
